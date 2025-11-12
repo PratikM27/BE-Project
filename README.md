@@ -19,16 +19,7 @@ This project implements a **real-time virtual mouse system** that enables users 
 - 🎯 **High Accuracy**: 85-90% gesture recognition accuracy
 - 🔄 **Hybrid Approach**: MediaPipe + ViT for optimal performance
 - 📊 **Complete Training Pipeline**: Data collection to deployment
-
-## 🎥 Demo
-
-<table>
-<tr>
-<td><img src="docs/demo_move.gif" alt="Move Gesture" width="200"/><br/><b>Move</b></td>
-<td><img src="docs/demo_click.gif" alt="Click Gesture" width="200"/><br/><b>Click</b></td>
-<td><img src="docs/demo_drag.gif" alt="Drag Gesture" width="200"/><br/><b>Drag</b></td>
-</tr>
-</table>
+  
 
 ## 🏗️ Architecture
 
